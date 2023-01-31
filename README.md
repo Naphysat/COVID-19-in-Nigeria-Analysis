@@ -1,5 +1,7 @@
 # COVID-19-in-Nigeria-Analysis
 
+The file with 'jpg' is a snapshot of my dashboard
+
 This project analyzes the impact of the Covid-19 pandemic in Nigeria. This data was gotten from the NCDC (Nigeria Centre for Disease Control) website.
 
 The COVID-19 pandemic in Nigeria is part of the worldwide pandemic of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The first confirmed case in Nigeria was announced on 27 February 2020, when an Italian national in Lagos tested positive for the virus. On 9 March 2020, a second case of the virus was reported in Ewekoro, Ogun State, a Nigerian citizen who came into contact with the Italian national.
