@@ -1,4 +1,4 @@
-# COVID-19-in-Nigeria-Analysis
+# Impact of Covid 19 Pandemic Nigeria
 
 The file with 'jpg' is a snapshot of my dashboard
 
