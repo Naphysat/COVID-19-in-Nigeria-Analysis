@@ -1,6 +1,6 @@
 # Impact of Covid 19 Pandemic Nigeria
 
-The file with 'jpg' is a snapshot of my dashboard
+You can interact with the dashboard here: https://app.powerbi.com/MobileRedirect.html?Context=share-report&ctid=0d208db3-39f6-4f17-b3f4-89883d314820&reportPage=ReportSection&bookmarkGuid=055b25aa-9036-4569-af68-c2c0d8f682a7&reportObjectId=572aa572-cb00-4b99-8b0a-d36284eda1d2&action=OpenReport&groupObjectId=6d28cb0d-ffee-4bab-a727-e5c1c937d6b7&pbi_source=mobile_ios
 
 This project analyzes the impact of the Covid-19 pandemic in Nigeria. This data was gotten from the NCDC (Nigeria Centre for Disease Control) website.
 
